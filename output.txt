@@ -1,0 +1,61 @@
+Company Number       Company Name         Company Service      Ranking    Symbol     Share Prices              Overall   
+======================================================================================================================
+1                    ABC Company          cars                 1          ABC        100 200 300 400 500       300.0     
+2                    XYZ Inc              smartphones          2          XYZ        150 250 350 450 550       350.0     
+3                    Company3             energy               3          AAPL       200 300 400 500 600       400.0     
+
+
+Full Details For: 1
+
+Company Number 1 named ABC Company
+The type of service the company offers is cars
+The Company Currently Ranks 1
+The Symbol for the Company is ABC
+The Share Prices for the compnay in the Past 5 days are 100 200 300 400 500 and has an overall Share Price of 300.0
+
+Short Details For: 1
+
+CN 1 Has an average weighted share price of 300.0
+----------------------------------------------------------------------------------------------------
+
+
+Full Details For: 2
+
+Company Number 2 named XYZ Inc
+The type of service the company offers is smartphones
+The Company Currently Ranks 2
+The Symbol for the Company is XYZ
+The Share Prices for the compnay in the Past 5 days are 150 250 350 450 550 and has an overall Share Price of 350.0
+
+Short Details For: 2
+
+CN 2 Has an average weighted share price of 350.0
+----------------------------------------------------------------------------------------------------
+
+
+Full Details For: 3
+
+Company Number 3 named Company3
+The type of service the company offers is energy
+The Company Currently Ranks 3
+The Symbol for the Company is AAPL
+The Share Prices for the compnay in the Past 5 days are 200 300 400 500 600 and has an overall Share Price of 400.0
+
+Short Details For: 3
+
+CN 3 Has an average weighted share price of 400.0
+----------------------------------------------------------------------------------------------------
+
+Number of Companies: There are 3 companies
+Company with Highest Share Value: The Company with the highest share value is Company3 with an average share value of 400.0
+
+The Following individual scores were awarded with thier Frequency:
+Share Price          Frequency 
+200                  1         
+300                  1         
+400                  1         
+500                  1         
+600                  1         
+
+The Minimum Share Price is 200
+The Maximum Share Price is 600
